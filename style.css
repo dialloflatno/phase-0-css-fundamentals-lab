@@ -3,3 +3,52 @@ body {
   height: 100%;
   margin: 0;
 }
+
+/* class */
+header.header { 
+  
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+  header a { 
+  
+    text-align: center;
+    background: grey;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}   
+
+/* id */
+
+ section#featured-property  {
+
+    font-size:smaller;
+    text-align: center;
+   
+}
+
+section > p {
+
+  text-align:center;
+  width:100%;
+  position: relative;
+  
+  
+}
+
+section#details {
+}
+
+    section > div {
+    float:left;
+    text-align: center;
+    background: red;
+    width: 25%;
+
+}
+
+
+
+  
